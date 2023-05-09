@@ -1,2 +1,2 @@
 # caseConverter
- kebab-case & camelCase Converter app
+ CSV kebab-case & camelCase Converter app
